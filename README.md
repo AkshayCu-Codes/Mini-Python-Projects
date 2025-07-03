@@ -10,7 +10,7 @@ Here's what's been built so far:
 
 | #   | Project Name         | Description                              | Link                                |
 |-----|----------------------|------------------------------------------|-------------------------------------|
-| 1   | Credit Card Verifier | Checks if a card number is valid using the Luhn algorithm | [View](projects/card-verifier)      |
+| 1   | Credit Card Verifier | Checks if a card number is valid using the Luhn algorithm | [View](Card-Verifier)      |
 
 🔜 More projects dropping soon — stay tuned! 🚀
 
@@ -31,7 +31,7 @@ Clone the repo and run any project of your choice:
 
 ```bash
 git clone https://github.com/yourusername/Mini-Python-Projects.git
-cd Mini-Python-Projects/projects/project-name
+cd Mini-Python-Projects/project-name
 python main.py
 ```
 If there’s a requirements.txt file, install the dependencies first:
