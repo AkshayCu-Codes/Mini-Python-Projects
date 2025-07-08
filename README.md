@@ -8,9 +8,10 @@ Welcome to my little corner of Python! This repo is a growing collection of bite
 
 Here's what's been built so far:
 
-| #   | Project Name         | Description                              | Link                                |
-|-----|----------------------|------------------------------------------|-------------------------------------|
-| 1   | Credit Card Verifier | Checks if a card number is valid using the Luhn algorithm | [View](Card-Verifier)      |
+| #   | Project Name             | Description                                                                                 | Code Link                        | Live App                                           |
+|-----|--------------------------|---------------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------|
+| 1   | Credit Card Verifier     | Checks if a card number is valid using the Luhn algorithm                                   | [View](Card-Verifier)           | [Launch](https://huggingface.co/spaces/Akshaycu/card-verifier) |
+| 2   | Expense Tracker (Lambda) | Explore the power of Lambda Functions by creating a simple, efficient expense tracker app   | [View](Expense-Tracker-Lambda)  | Coming Soon                                        |
 
 🔜 More projects dropping soon — stay tuned! 🚀
 
@@ -30,9 +31,9 @@ Here's what's been built so far:
 Clone the repo and run any project of your choice:
 
 ```bash
-git clone https://github.com/yourusername/Mini-Python-Projects.git
+git clone https://github.com/AkshayCu-Codes/Mini-Python-Projects.git
 cd Mini-Python-Projects/project-name
-python main.py
+python app.py
 ```
 If there’s a requirements.txt file, install the dependencies first:
 
