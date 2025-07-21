@@ -48,7 +48,7 @@ You’ll see a menu like this:
 You can run this CLI-based tracker online with no setup.
 
 ### 🌐 Live App:
-[▶ Try on Replit](https://replit.com/@YourUsername/expense-tracker-lambda)
+[▶ Try on Replit](https://replit.com/@akshaycu11/Expense-TrackerLambda?v=1)
 
 ### 🔁 Steps to Host It Yourself on Replit:
 

@@ -8,9 +8,11 @@ Welcome to my little corner of Python! This repo is a growing collection of bite
 
 Here's what's been built so far:
 
-| #   | Project Name         | Description                              | Link                                |
-|-----|----------------------|------------------------------------------|-------------------------------------|
-| 1   | Credit Card Verifier | Checks if a card number is valid using the Luhn algorithm | [View](Card-Verifier)      |
+| #   | Project Name             | Description                                                                 | Link                                 |
+|-----|--------------------------|-----------------------------------------------------------------------------|--------------------------------------|
+| 1   | Credit Card Verifier     | Checks if a card number is valid using the Luhn algorithm                   | [View](01-Card-Verifier)                |
+| 2   | Expense Tracker (Lambda) | Demonstrates the use of Lambda functions to build a simple CLI expense app | [View](02-expense-tracker(lambda))       |
+
 
 🔜 More projects dropping soon — stay tuned! 🚀
 
